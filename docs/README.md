@@ -90,7 +90,7 @@
 
 ![image-20210704144309712](images\image-20210704144309712.png)
 
-点击左侧列表中的节点，会在页面的右下角区域可视化显示相应位置档案盒的状态，其中空白表示：该位置没有档案盒，![boxInShelf](images\boxInShelf.png) 表示有档案盒并放置正确，![boxOutShelf](images\boxOutShelf.jpg) 表示档案盒离开该位置，![boxCross](images\boxCross.png) 表示档案盒放错位置，![boxBad](images\boxBad.png) 表示。。。。。。
+点击左侧列表中的节点，会在页面的右下角区域可视化显示相应位置档案盒的状态，其中空白表示：该位置没有档案盒，![boxInShelf](images\boxInShelf.png) 表示有档案盒并放置正确，![boxOutShelf](images\boxOutShelf.jpg) 表示档案盒离开该位置，![boxCross](images\boxCross.png) 表示档案盒放错位置，![boxBad](images\boxBad.png) 表示档案损坏。
 
 双击相应位置的档案盒可查看档案盒的内容。
 
